@@ -117,6 +117,25 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jimmy",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Jimmy",
+      "species": "Horse",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
